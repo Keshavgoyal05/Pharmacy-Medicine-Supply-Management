@@ -1,0 +1,40 @@
+INFO  11:08:30 Now listening on: https://localhost:5001
+INFO  11:08:30 Now listening on: https://localhost:5001
+INFO  11:08:30 Now listening on: http://localhost:5000
+INFO  11:08:30 Now listening on: http://localhost:5000
+INFO  11:08:30 Application started. Press Ctrl+C to shut down.
+INFO  11:08:30 Application started. Press Ctrl+C to shut down.
+INFO  11:08:30 Hosting environment: Development
+INFO  11:08:30 Hosting environment: Development
+INFO  11:08:30 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:08:30 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:08:57 Controller GetRepSchedule is invoked
+INFO  11:08:57 GetSchedules is invoked
+INFO  11:08:57 Data is being Read.
+INFO  11:08:57 GetAllStock is invoked
+INFO  11:08:57 Data is being Read from MedicineStock api
+INFO  11:08:59 Represntative Schedule is retrived
+INFO  11:13:11 Application started. Press Ctrl+C to shut down.
+INFO  11:13:11 Application started. Press Ctrl+C to shut down.
+INFO  11:13:11 Hosting environment: Development
+INFO  11:13:11 Hosting environment: Development
+INFO  11:13:11 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:13:11 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:13:46 Controller GetRepSchedule is invoked
+INFO  11:13:46 GetSchedules is invoked
+INFO  11:13:46 Data is being Read.
+INFO  11:13:46 GetAllStock is invoked
+INFO  11:13:46 Data is being Read from MedicineStock api
+INFO  11:13:47 Represntative Schedule is retrived
+INFO  11:14:46 Controller GetRepSchedule is invoked
+INFO  11:14:46 GetSchedules is invoked
+INFO  11:14:46 Data is being Read.
+INFO  11:14:46 GetAllStock is invoked
+INFO  11:14:46 Data is being Read from MedicineStock api
+INFO  11:14:46 Represntative Schedule is retrived
+INFO  11:14:58 Controller GetRepSchedule is invoked
+INFO  11:14:58 GetSchedules is invoked
+INFO  11:14:58 Data is being Read.
+INFO  11:14:58 GetAllStock is invoked
+INFO  11:14:58 Data is being Read from MedicineStock api
+INFO  11:14:58 Represntative Schedule is retrived
